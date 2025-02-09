@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python, SQL, and Data analysis. 
 - 💞️ I’m looking to collaborate on on open-source data science project.
-- 📫 How to reach me: gmail:(karanthakur05k@gmail.com) , linkdln:(https://www.linkedin.com/in/karanthakur26/)
+- 📫 How to reach me: Gmail:(karanthakur05k@gmail.com) , LinkedIn:(https://www.linkedin.com/in/karanthakur26/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problem with data!
 
