@@ -1,5 +1,5 @@
--  Hi, I’m @karank05
--  I'm interested in Data Analytics, Business         Intelligence, and Data Storytelling
+-  Hi, I’m Karan
+-  I'm interested in Data Analytics, Business         Intelligence, and Data Storytelling.
 -  I’m currently learning Python, SQL, and Data analysis. 
 -  I’m looking to collaborate on on open-source data science project.
 -  How to reach me: Gmail:(karanthakur05k@gmail.com) , LinkedIn:(https://www.linkedin.com/in/karanthakur26/)
